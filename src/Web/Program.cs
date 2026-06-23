@@ -1,4 +1,5 @@
 // add comment from github to test pull request concept in github
+// secon dcomment to check branch rules (policies in devops) 
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
